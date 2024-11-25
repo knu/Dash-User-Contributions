@@ -1,6 +1,6 @@
 {
     "name": "Tailwind CSS",
-    "version": "3.4.13-10",
+    "version": "3.4.13-11",
     "archive": "Tailwind_CSS.tgz",
     "author": {
         "name": "Ben Booth, Guill Lo, Akinori Musha",
@@ -12,6 +12,10 @@
         "tailwind CSS"
     ],
     "specific_versions": [
+        {
+            "version": "3.4.13-11",
+            "archive": "versions/3.4.13-11/Tailwind_CSS.tgz"
+        },
         {
             "version": "3.4.13-10",
             "archive": "versions/3.4.13-10/Tailwind_CSS.tgz"
