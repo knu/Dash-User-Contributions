@@ -1,12 +1,16 @@
 {
     "name": "Trino",
-    "version": "483",
+    "version": "484",
     "archive": "Trino.tgz",
     "author": {
         "name": "Akinori Musha",
         "link": "https://github.com/knu"
     },
     "specific_versions": [
+        {
+            "version": "484",
+            "archive": "versions/484/Trino.tgz"
+        },
         {
             "version": "483",
             "archive": "versions/483/Trino.tgz"
